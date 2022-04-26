@@ -1,1 +1,1 @@
-There are several tareas of DevOps course
+There are two tasks for DevOps course of Innopolis
